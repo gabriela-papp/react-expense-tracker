@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+LINK TO THE PROJECT: https://react-expense-tracker-001.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
